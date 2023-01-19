@@ -1,19 +1,15 @@
 <!doctype html>
-	<html lang="en">
-	  <head>
-	    <meta charset="utf-8">
-	    <title>About Me</title>
-	  </head>
-	  <body bgcolor="#FFB3E6">
-    <a href="index.html">Home</a>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Emilee's Website</title>
+  </head>
+  <body bgcolor="#FFC0CB">
+    <a href="index.html">Home Page</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
-    <h1>This is all about me!</h1>
-    <br>
-    <h1>   I live with my parents and my 2 sisters</h1>
-    <br>
-    <h1>   I like to lift and go hiking</h1>
-    <br>
-    </a>
-	  </body>
-	</html>
+    <h1>This is Emilee's Home Page!</h1>
+    <img src="narcosgif.GIF" height="500">
+    <h1> I love Narcos
+  </body>
+</html>
