@@ -9,7 +9,9 @@
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
     <h1>This is Emilee's Home Page!</h1>
-    <img src="narcosgif.GIF" height="500">
-    <h1> I love Narcos
+  <p>
+    <img src="narcosgif.GIF" alt="nrc"/>
+    </p>
+    <h1> I love Narcos</h1>
   </body>
 </html>
